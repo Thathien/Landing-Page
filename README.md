@@ -15,8 +15,6 @@ This Project is building Navigation Bar for Landing Page Dynamically using JavaS
 
 - [Project Title](#Udacity-|-Landing-Page)
 
-- [Usage](#usage)
-
 - [Development](#development)
 
 
